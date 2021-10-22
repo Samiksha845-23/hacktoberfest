@@ -1,0 +1,8 @@
+Enter the title:XYZ
+Enter the number of pages:200
+Enter the play time:23.56
+
+Title of the book:XYZ
+Price of book:500
+Play Time of the tape:23.56
+NO. of pages in the book:200
